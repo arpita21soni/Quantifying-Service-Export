@@ -1,0 +1,48 @@
+IndustryCode,IndustryDescription,Sector,RNr
+1,"Agriculture, Hunting, Forestry and Fishing",G,AtB
+2,Mining and Quarrying,G,C
+3,"Food, Beverages and Tobacco",G,15t16
+4,Textiles and Textile Products,G,17t18
+5,"Leather, Leather and Footwear",G,19
+6,Wood and Products of Wood and Cork,G,20
+7,"Pulp, Paper, Paper , Printing and Publishing",G,21t22
+8,"Coke, Refined Petroleum and Nuclear Fuel",G,23
+9,Chemicals and Chemical Products,G,24
+10,Rubber and Plastics,G,25
+11,Other Non-Metallic Mineral,G,26
+12,Basic Metals and Fabricated Metal,G,27t28
+13,"Machinery, Nec",G,29
+14,Electrical and Optical Equipment,G,30t33
+15,Transport Equipment,G,34t35
+16,"Manufacturing, Nec; Recycling",G,36t37
+17,"Electricity, Gas and Water Supply",L,E
+18,Construction,G,F
+19,"Sale, Maintenance and Repair of Motor Vehicles and Motorcycles; Retail Sale of Fuel",L,50
+20,"Wholesale Trade and Commission Trade, Except of Motor Vehicles and Motorcycles",L,51
+21,"Retail Trade, Except of Motor Vehicles and Motorcycles; Repair of Household Goods",L,52
+22,Hotels and Restaurants,L,H
+23,Inland Transport,L,60
+24,Water Transport,L,61
+25,Air Transport,L,62
+26,Other Supporting and Auxiliary Transport Activities; Activities of Travel Agencies,L,63
+27,Post and Telecommunications,L,64
+28,Financial Intermediation,H,J
+29,Real Estate Activities,L,70
+30,Renting of M&Eq and Other Business Activities,H,71t74
+31,Public Admin and Defence; Compulsory Social Security,L,L
+32,Education,H,M
+33,Health and Social Work,H,N
+34,"Other Community, Social and Personal Services",L,O
+35,Private Households with Employed Persons,L,P
+37,Consumption by Households,CON,Consumption
+38,Consumption by NPOs,CON,Consumption
+39,Consumption by Gov,CON,Consumption
+41,Gross Fixed Capital Formation,INV,Investment
+42,Changes in Inventory,INV,Investment
+60,Total Intermediate consumption,INT,
+61,Cif/fob adjustments on exports,,
+62,Direct purchases abroad by residents,,
+63,Purchases on the domestic territory by non-residents,,
+64,Value added at basic prices,VA,
+69,Output at basic prices,GO,
+99,Taxes less subsidies on products,,
